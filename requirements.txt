@@ -1,6 +1,0 @@
-streamlit
-elastic_app_search
-Pillow
-streamlit_option_menu
-sentence_transformers
-elasticsearch
